@@ -6,7 +6,7 @@ The following is a descriptive and diagnostic analysis of the M1 money supply in
 
 ## Build Status
 
-1. U.s Money supply analysis (completed)
+1. U.S Money supply analysis (completed)
 2. Interest rate analysis (to be completed)
 3. Inflation analysis (to be completed)
 
